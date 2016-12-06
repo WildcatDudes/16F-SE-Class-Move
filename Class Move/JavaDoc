@@ -1,0 +1,19 @@
+changeCLass() - sorts through and checks each students availablity compared to professor availability and room availability
+
+inputHandler() - checks for "change" or other inputs to check against
+
+parseString() - reads in csv file and sorts values into arrays and classes
+
+getName() - returns the name of students, professors, and buildings
+
+addClass() - adds a class time to each respective schedule
+
+getSchedule() - returns each respective schedule
+
+getYear() - returns student classification
+
+getTeacher() - returns the teacher for the course
+
+getCode() - returns course scheduling code
+
+getTime() - returns the time that a course takes place
